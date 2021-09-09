@@ -14,6 +14,7 @@
   <img align="center" alt="Paulo-C" height="35" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Paulo-Git" height="35" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Paulo-Vscode" height="35" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+ <img align="center" alt="Paulo-Vscode" height="35" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div><br>
 
 <div>
