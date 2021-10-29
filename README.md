@@ -2,7 +2,7 @@
  
 * 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas | IFPE
 * 🔍 Me interesso por: Desenvolvimento Web Front-end/Back-end e Ciência de Dados
-* 🖥️ Atualmente estou aprendendo mais sobre: Html5, CSS3 e Javascript
+* 🖥️ Atualmente estou aprendendo mais sobre: Html5, CSS3, Javascript, Node e Python
 
 ## 💡 Minhas Skills 
 <div style="display: inline_block">
