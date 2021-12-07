@@ -1,7 +1,7 @@
 ## 👨‍💻 Oi, Eu sou o Paulo Santos
  
 * 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas | IFPE
-* 👨‍💻 Estagiário BackEnd | Nutrin Group
+* 👨‍💻 Estagiário Back-End | Nutrin Group
 * 🔍 Me interesso por: Desenvolvimento Web Front-end/Back-end e Ciência de Dados
 * 🖥️ Atualmente estou aprendendo mais sobre: Javascript, NodeJs, ApiRest, Express, Sequelize, Sql e Docker
 
