@@ -25,7 +25,7 @@
 <div>
   <a href="https://github.com/Paulo-Ed">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ed&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ed&langs_count=7&layout=compact&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ed&langs_count=10&layout=compact&theme=github_dark"/>
 </div>
 
 
