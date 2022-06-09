@@ -1,19 +1,20 @@
 ## 👨‍💻 Oi, Eu sou o Paulo Santos
  
-* 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas | IFPE
+* 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | IFPE
 * 👨‍💻 Estagiário Back-End | Nutrin Group
-* 🔍 Me interesso por: Desenvolvimento Web Front-end/Back-end e Ciência de Dados
-* 🖥️ Atualmente estou aprendendo mais sobre: Javascript, NodeJs, ApiRest, Express, Sequelize, Sql e Docker
+* 🔍 Me interesso por: Desenvolvimento Web Back-end, Front-end e Ciência de Dados
+* 🖥️ Atualmente estou aprendendo mais sobre: Typescript, Javascript, NodeJs, ApiRest, Express, Sequelize, Sql, Modelagem de Dados e Engenharia de Software.
 
 ## 💡 Minhas Skills 
 <div style="display: inline_block">
     <img align="center" alt="Paulo-HTML" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Paulo-CSS" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Paulo-Js" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Paulo-Python" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Paulo-Node" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Paulo-Ts" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="Paulo-Node" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="Paulo-Npm" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
     <img align="center" alt="Paulo-Express" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img align="center" alt="Paulo-Python" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Paulo-Sequelize" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
     <img align="center" alt="Paulo-Mysql" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Paulo-Docker" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
