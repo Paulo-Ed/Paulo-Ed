@@ -1,11 +1,11 @@
 ## 👨‍💻 Oi, Eu sou o Paulo Santos
  
 * 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | IFPE
-* 👨‍💻 Estagiário Back-End | Nutrin Group
-* 🔍 Me interesso por: Desenvolvimento Web Back-end, Front-end e Ciência de Dados
-* 🖥️ Atualmente estou aprendendo mais sobre: Typescript, Javascript, NodeJs, ApiRest, Express, Sequelize, Sql, Modelagem de Dados e Engenharia de Software.
+* 👨‍💻 Back-End Developer | Logbits - Soluções Tecnológicas
+* 🔍 Me interesso por: Desenvolvimento Web Back-end e Front-end, Desenvolvimento Mobile, Engenharia de Software e Ciência de Dados.
+* 🖥️ Atualmente estou aprendendo mais sobre: Typescript, Javascript funcional, gerência de controle de versão, funcionamento da web, Sql, Modelagem de Dados e Engenharia de Software.
 
-## 💡 Minhas Skills 
+## 💡 Minhas Tech Skills 
 <div style="display: inline_block">
     <img align="center" alt="Paulo-Js" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Paulo-Ts" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
