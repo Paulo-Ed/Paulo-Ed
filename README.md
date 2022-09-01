@@ -3,7 +3,7 @@
 * 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | IFPE
 * 👨‍💻 Back-end Developer | Logbits - Soluções Tecnológicas
 * 🔍 Me interesso por: Desenvolvimento Web Back-end e Front-end, Desenvolvimento Mobile, Engenharia de Software, Gerenciamento de Projetos e também por Ciência de Dados.
-* 🖥️ Atualmente estou aprendendo mais sobre: AWS, Javascript funcional, Gerência de controle de versão, Arquiteturas de Aplicações Web, Modelagem de Dados e Engenharia de Software.
+* 🖥️ Atualmente estou aprendendo mais sobre: AWS, Javascript funcional, Gerência de controle de versão, NodeJs, Modelagem de Dados e Engenharia de Software.
 
 ## 💡 Minhas Tech Skills 
 <div style="display: inline_block">
