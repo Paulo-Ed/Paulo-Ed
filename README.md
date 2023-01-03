@@ -1,11 +1,11 @@
-## 👨‍💻 Oi, Eu sou o Paulo Santos
- 
-* 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | IFPE
-* 👨‍💻 Back-end Developer | Logbits - Soluções Tecnológicas
-* 🔍 Me interesso por: Desenvolvimento Web Back-end e Front-end, Desenvolvimento Mobile, Engenharia de Software, Gerenciamento de Projetos e também por Ciência de Dados.
-* 🖥️ Atualmente estou aprendendo mais sobre: AWS, Javascript funcional, Gerência de controle de versão, NodeJs, Modelagem de Dados e Engenharia de Software.
+## 👨‍💻 Olá, Eu sou o Paulo.
 
-## 💡 Minhas Tech Skills 
+* 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | UNINASSAU
+* 👨‍💻 Engenheiro de Software | Logbits - Soluções Tecnológicas
+* 🔍 Me interesso por: Desenvolvimento Web Back-end e Front-end, Desenvolvimento Mobile, Engenharia de Software, Gerenciamento de Projetos e também por Ciência de Dados.
+* 🖥️ Atualmente estou aprendendo mais sobre: NodeJs, Construção de Aplicações do lado do servidor, Javascript para Front-end e Engenharia de Software.
+
+## 💡 Trabalho com essas Tecnologias:
 <div style="display: inline_block">
     <img align="center" alt="Paulo-Js" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Paulo-Ts" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
