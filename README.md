@@ -1,7 +1,7 @@
 ## ☄ Olá, Eu sou o Paulo.
 
 * 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | UNINASSAU;
-* 👨‍💻 Engenheiro de Software | Logbits - Soluções Tecnológicas;
+* 👨‍💻 Analista e Desenvolvedor de Sistemas | Logbits - Soluções Tecnológicas;
 * 🔍 Me interesso por: Desenvolvimento Web Back-end e Front-end, Desenvolvimento Mobile, Engenharia de Software, Gerenciamento de Projetos e também por Ciência de Dados;
 * 🖥️ Atualmente estou aprendendo mais sobre: NodeJs, Construção de Aplicações do lado do servidor, Javascript para Front-end e Engenharia de Software.
 
