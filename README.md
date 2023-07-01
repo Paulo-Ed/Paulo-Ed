@@ -1,9 +1,8 @@
 ## ☄ Paulo Santos
 * 💡Desenvolvedor Full Stack;
-* 👨‍💻 Trabalho com análise, planejamento, documentação e desenvolvimento de software.
-* 📈 Além disso atuo na gestão e gerencia de projetos e liderança de equipes.
+* 👨‍💻 Trabalho com análise, planejamento, documentação e desenvolvimento de software;
+* 📈 Atuo também na gestão e gerencia de projetos e liderança de equipes;
 * 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | UNINASSAU;
-
 * 🔍 Na área de Tecnologia me interesso por: Desenvolvimento Web, Engenharia de Software, Gerenciamento de Projetos e Ciência de Dados.
 
 ## 👨‍💻 Tecnologias
