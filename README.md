@@ -1,9 +1,10 @@
-## ☄ Olá, Eu sou o Paulo.
-
+## ☄ Paulo Santos
+* 💡Desenvolvedor Full Stack;
+* 👨‍💻 Trabalho com análise, planejamento, documentação e desenvolvimento de software.
+* 📈 Além disso atuo na gestão e gerencia de projetos e liderança de equipes.
 * 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | UNINASSAU;
-* 👨‍💻 Desenvolvedor Back-end | Logbits - Soluções Tecnológicas;
-* 🔍 Me interesso por: Desenvolvimento Web Back-end e Front-end, Desenvolvimento Mobile, Engenharia de Software, Gerenciamento de Projetos e também por Ciência de Dados;
-* 🖥️ Atualmente estou aprendendo mais sobre: NodeJs, Construção de Aplicações do lado do servidor, Javascript para Front-end e Engenharia de Software.
+
+* 🔍 Na área de Tecnologia me interesso por: Desenvolvimento Web, Engenharia de Software, Gerenciamento de Projetos e Ciência de Dados.
 
 ## 👨‍💻 Tecnologias
 
