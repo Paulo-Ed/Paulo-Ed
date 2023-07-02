@@ -39,8 +39,8 @@
 ## 🌟 Github Stats
 <div>
   <a href="https://github.com/Paulo-Ed">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ed&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ed&langs_count=8&layout=compact&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ed&include_all_commits=true&count_private=true&show_icons=true&theme=swift"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ed&langs_count=8&layout=compact&theme=swift"/>
 </div>
 
 
