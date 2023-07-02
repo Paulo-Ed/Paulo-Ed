@@ -1,4 +1,4 @@
-## ☄ Paulo Santos
+## 📖 Paulo Santos
 * 💡Desenvolvedor Full Stack;
 * 👨‍💻 Trabalho com análise, planejamento, documentação e desenvolvimento de software;
 * 📈 Atuo também na gestão e gerencia de projetos e liderança de equipes;
@@ -32,9 +32,7 @@
     <img align="center" alt="Paulo-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="Paulo-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img align="center" alt="Paulo-Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img align="center" alt="Paulo-PowerShell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-    <img align="center" alt="Paulo-Cmd" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
-    <img align="center" alt="Paulo-Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"><br><br>
+    <img align="center" alt="Paulo-Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img align="center" alt="Paulo-Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 
@@ -42,7 +40,7 @@
 <div>
   <a href="https://github.com/Paulo-Ed">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ed&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ed&langs_count=8&layout=compact&theme=github_dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ed&langs_count=8&layout=donut&theme=github_dark"/>
 </div>
 
 
