@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Eu+sou+o+Paulo+Santos;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
-## 📖 Sobre mim
+## 📖 Sobre Mim
 
 * 👨‍💻 Trabalho com análise, planejamento, documentação e desenvolvimento de software;
 * 📈 Atuo também na gestão e gerencia de projetos e liderança de equipes;
