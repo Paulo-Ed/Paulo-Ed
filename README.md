@@ -1,10 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Oi,Eu+sou+o+Paulo+Santos+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Eu+sou+o+Paulo+Santos;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
-## 📖 Paulo Santos
+## 📖 Sobre mim
 
-* 💡Desenvolvedor Full Stack;
 * 👨‍💻 Trabalho com análise, planejamento, documentação e desenvolvimento de software;
 * 📈 Atuo também na gestão e gerencia de projetos e liderança de equipes;
 * 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | UNINASSAU;
@@ -61,5 +60,6 @@
   <img width="41%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ed&langs_count=8&layout=compact&theme=swift&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
 
 
