@@ -57,14 +57,9 @@
 
 <div>
   <a href="https://github.com/Paulo-Ed">
-  <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ed&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
+  <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ed&include_all_commits=true&count_private=true&show_icons=true&theme=swift&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
   <img width="41%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ed&langs_count=8&layout=compact&theme=swift&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
 </div>
 
-<div>
-  <a href="https://github.com/Paulo-Ed">
-  <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ed&include_all_commits=true&count_private=true&show_icons=true&theme=swift&icon_color=000000"/>
-  <img width="41%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ed&langs_count=8&layout=compact&theme=swift"/>
-</div>
 
 
