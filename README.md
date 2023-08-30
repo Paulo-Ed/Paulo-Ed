@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Oi,Eu+sou+o+Paulo+Santos+:%29)](https://git.io/typing-svg)
+
 ## 📖 Paulo Santos
 
 * 💡Desenvolvedor Full Stack;
@@ -49,11 +53,18 @@
 
 ## 🌟 Github Stats
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulo-ed&bg_color=0d1117&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div>
   <a href="https://github.com/Paulo-Ed">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ed&include_all_commits=true&count_private=true&show_icons=true&theme=swift"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ed&langs_count=8&layout=compact&theme=swift"/>
+  <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ed&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
+  <img width="41%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ed&langs_count=8&layout=compact&theme=swift&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
 </div>
 
+<div>
+  <a href="https://github.com/Paulo-Ed">
+  <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ed&include_all_commits=true&count_private=true&show_icons=true&theme=swift&icon_color=000000"/>
+  <img width="41%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ed&langs_count=8&layout=compact&theme=swift"/>
+</div>
 
 
