@@ -21,14 +21,8 @@
 ![MySql](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=005C84)&nbsp;
 
 > #### ESTOU ESTUDANDO
-
-<div style="display: inline_block">
-    <img align="center" alt="Paulo-Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="Paulo-Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="Paulo-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="Paulo-Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
-    <img align="center" alt="Paulo-Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
-</div>
+![Vue.js](https://img.shields.io/badge/Vue%20js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=35495E)&nbsp;
+![MySql](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)&nbsp;
 
 <br>
 
