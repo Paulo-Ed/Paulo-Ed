@@ -7,7 +7,6 @@
 * 👨‍💻 Trabalho com análise, planejamento, documentação e desenvolvimento de software;
 * 📈 Atuo também na gestão e gerencia de projetos e liderança de equipes;
 * 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | UNINASSAU;
-* 🔍 Na área de Tecnologia me interesso por: Desenvolvimento Web, Engenharia de Software, Gerenciamento de Projetos e Ciência de Dados.
 
 ## 👨‍💻 Tecnologias
 
@@ -17,6 +16,7 @@
     <img align="center" alt="Paulo-Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="Paulo-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Paulo-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="Paulo-Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
 
 <br>
@@ -28,7 +28,7 @@
     <img align="center" alt="Paulo-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img align="center" alt="Paulo-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="Paulo-Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
-    <img align="center" alt="Paulo-Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
+    <img align="center" alt="Paulo-Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 </div>
 
 <br>
@@ -48,6 +48,17 @@
     <img align="center" alt="Paulo-Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img align="center" alt="Paulo-Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img align="center" alt="Paulo-Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</div>
+
+<br>
+
+> #### ESTUDANDO
+
+<div style="display: inline_block">
+    <img align="center" alt="Paulo-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="Paulo-Vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+    <img align="center" alt="Paulo-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+    <img align="center" alt="Paulo-PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
 ## 🌟 Github Stats
