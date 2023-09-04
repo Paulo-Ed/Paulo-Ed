@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Tecnologias
 
-> #### JÁ TRABALHO
+> #### TRABALHO COM
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
@@ -19,9 +19,9 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)&nbsp; 
 ![NodeJs](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=43853D)&nbsp;
 ![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff)&nbsp;
+![MySql](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=005C84)&nbsp;
 <!--![Sequelize](https://img.shields.io/badge/Sequelize-0D1117?style=for-the-badge&logo=sequelize&logoColor=52B0E7)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=52B0E7)&nbsp;-->
-![MySql](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=005C84)&nbsp;
 
 > #### ESTOU ESTUDANDO
 ![Vue.js](https://img.shields.io/badge/Vue%20js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=35495E)&nbsp;
