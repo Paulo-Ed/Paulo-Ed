@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Atuação
 * 👨‍💻 Desenvolvimento de Software: Análise, planejamento, Criação de Projeto, Documentação, Implementação, Teste e Manutenção;
-* 📈 Gestão de Projetos: Organização e Planejamento, Comunicação com Cliente, Gerenciamento e controle de versão, Gestão e Liderança de Equipes, Administração do Produto e da Execução de Tarefas.
+* 📈 Gestão de Projetos: Administração do Produto, Comunicação com o Cliente, Controle de Versão, Organização e Planejamento de Tarefas, Gestão e Liderança de Equipes.
 
 > #### TECNOLOGIAS
 
