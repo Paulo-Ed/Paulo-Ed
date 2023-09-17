@@ -9,7 +9,7 @@
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)&nbsp;
 
 ## 👨‍💻 Atuação
-* 👨‍💻 Desenvolvimento de Software: Análise, planejamento, Criação de Projeto, Documentação, Implementação, Teste e Manutenção;
+* 👨‍💻 Desenvolvimento de Software: Análise, planejamento, Criação de Projeto, Documentação, Implementação, Teste e Manutenção.
 * 📈 Gestão de Projetos: Administração do Produto, Comunicação com o Cliente, Controle de Versão, Organização e Planejamento de Tarefas, Gestão e Liderança de Equipes.
 
 > #### TECNOLOGIAS
