@@ -1,17 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Paulo+Santos;Sou+Desenvolvedor+Full+Stack)](https://git.io/typing-svg)-->
-
-## 📖 Sobre Mim
-
-* 👨‍💻 Trabalho com análise, planejamento, documentação e desenvolvimento de software;
-* 📈 Atuo também na gestão e gerencia de projetos e liderança de equipes;
+## 📖 Apresentação
 * 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | UNINASSAU;
 * 🔍 Na área de Tecnologia me interesso por: Desenvolvimento Web, Engenharia de Software, Gerenciamento de Projetos e Ciência de Dados.
 
-## 👨‍💻 Tecnologias
+> #### ESTOU ESTUDANDO
+![Vue.js](https://img.shields.io/badge/Vue%20js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=35495E)&nbsp;
+![PostgreSql](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)&nbsp;
 
-> #### TRABALHO COM
+## 👨‍💻 Atuação
+* 👨‍💻 Trabalho com análise, planejamento, documentação e desenvolvimento de software;
+* 📈 Atuo também na gestão e gerencia de projetos e liderança de equipes;
+
+> #### TECNOLOGIAS
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
@@ -23,9 +24,7 @@
 <!--![Sequelize](https://img.shields.io/badge/Sequelize-0D1117?style=for-the-badge&logo=sequelize&logoColor=52B0E7)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=52B0E7)&nbsp;-->
 
-> #### ESTOU ESTUDANDO
-![Vue.js](https://img.shields.io/badge/Vue%20js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=35495E)&nbsp;
-![PostgreSql](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)&nbsp;
+
 
 ## 🌟 Github Stats
 
