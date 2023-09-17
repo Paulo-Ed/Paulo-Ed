@@ -2,15 +2,15 @@
 
 ## 📖 Apresentação
 * 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | UNINASSAU;
-* 🔍 Na área de Tecnologia me interesso por: Desenvolvimento Web, Engenharia de Software, Gerenciamento de Projetos e Ciência de Dados.
+* 🔍 Áreas de interesse: Desenvolvimento de Software, Gestão de Projetos e Análise de Dados.
 
-> #### ESTOU ESTUDANDO
+> #### ESTUDANDO
 ![Vue.js](https://img.shields.io/badge/Vue%20js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=35495E)&nbsp;
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)&nbsp;
 
 ## 👨‍💻 Atuação
-* 👨‍💻 Trabalho com análise, planejamento, documentação e desenvolvimento de software;
-* 📈 Atuo também na gestão e gerencia de projetos e liderança de equipes;
+* 👨‍💻 Desenvolvimento de Software: Análise, planejamento, Criação de Projeto, Documentação, Implementação, Teste e Manutenção;
+* 📈 Gestão de Projetos: Organização e Planejamento, Comunicação com Cliente, Gerenciamento e controle de versão, Gestão e Liderança de Equipes, Administração do Produto e da Execução de Tarefas.
 
 > #### TECNOLOGIAS
 
