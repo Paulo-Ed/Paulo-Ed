@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
 
 ## 📖 Apresentação
-* 💡4 Anos de Experiência em Desenvolvimento de Software;
+* 💡 4 Anos de Experiência em Desenvolvimento de Software;
 * 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | UNINASSAU;
 * 🔍 Áreas de interesse: Desenvolvimento de Software, Gestão de Projetos e Análise de Dados.
 
