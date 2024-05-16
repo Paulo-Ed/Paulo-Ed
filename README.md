@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
 
-## 📖 APRESENTAÇÃO
+## 📖 EXPERIÊNCIA E FORMAÇÃO
 * 💡 Trabalhando com Desenvolvimento de Software desde 2019;
 * 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | UNINASSAU;
 * 📊 Graduando em Ciências Econômicas | UFPE.
