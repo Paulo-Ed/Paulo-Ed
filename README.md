@@ -13,7 +13,7 @@
 * 💻 Desenvolvimento de Software: Análise, planejamento, Criação de Projeto, Documentação, Implementação, Teste e Manutenção.
 * 📋 Gestão de Projetos: Administração do Produto, Comunicação com o Cliente, Controle de Versão, Organização e Planejamento de Tarefas, Gestão e Liderança de Equipes.
 
-> ### 🖥️ Tecnologias
+## 🖥️ TECNOLOGIAS
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
