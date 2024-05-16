@@ -5,9 +5,9 @@
 * 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | UNINASSAU;
 * 📊 Graduando em Ciências Econômicas | UFPE.
 
-> ### 🔍 Estudando
+<!-- ### 🔍 Estudando
 ![Vue.js](https://img.shields.io/badge/Vue%20js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=35495E)&nbsp;
-![PostgreSql](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)&nbsp;
+![PostgreSql](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)&nbsp;-->
 
 ## 👨‍💻 ATUAÇÃO
 * 💻 Desenvolvimento de Software: Análise, planejamento, Criação de Projeto, Documentação, Implementação, Teste e Manutenção.
