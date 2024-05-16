@@ -1,19 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
 
 ## 📖 APRESENTAÇÃO
-* 💡 4 Anos de Experiência em Desenvolvimento de Software;
+* 💡 Trabalhando com Desenvolvimento de Software desde 2019;
 * 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas | UNINASSAU;
-* 🔍 Áreas de interesse: Desenvolvimento de Software, Gestão de Projetos e Análise de Dados.
+* 📊 Graduando em Ciências Econômicas | UFPE.
 
-> ### Estudando
+> ### 🔍 Estudando
 ![Vue.js](https://img.shields.io/badge/Vue%20js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=35495E)&nbsp;
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)&nbsp;
 
 ## 👨‍💻 ATUAÇÃO
-* 👨‍💻 Desenvolvimento de Software: Análise, planejamento, Criação de Projeto, Documentação, Implementação, Teste e Manutenção.
-* 📈 Gestão de Projetos: Administração do Produto, Comunicação com o Cliente, Controle de Versão, Organização e Planejamento de Tarefas, Gestão e Liderança de Equipes.
+* 💻 Desenvolvimento de Software: Análise, planejamento, Criação de Projeto, Documentação, Implementação, Teste e Manutenção.
+* 📋 Gestão de Projetos: Administração do Produto, Comunicação com o Cliente, Controle de Versão, Organização e Planejamento de Tarefas, Gestão e Liderança de Equipes.
 
-> ### Tecnologias
+> ### 🖥️ Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
